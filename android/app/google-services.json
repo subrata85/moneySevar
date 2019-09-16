@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442517210907",
+    "firebase_url": "https://moneyserver-f5529.firebaseio.com",
+    "project_id": "moneyserver-f5529",
+    "storage_bucket": "moneyserver-f5529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442517210907:android:a212c73fa186adb46af5be",
+        "android_client_info": {
+          "package_name": "com.moneysarver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442517210907-5382t2gv5rb45rsg1tfme6etn02d10ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneysarver",
+            "certificate_hash": "e0ab090d3b781279772ff182b50c3fdce2e76742"
+          }
+        },
+        {
+          "client_id": "442517210907-7k3585e3208oqp42cj6n0fpn37o05bs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiuHOJpHVDJFklZ5mW-eP0aQsp9T6yPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442517210907-7k3585e3208oqp42cj6n0fpn37o05bs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
